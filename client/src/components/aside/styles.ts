@@ -52,14 +52,3 @@ export const Item = styled.li`
     background-color: #282828;
   }
 `;
-
-export const Backline = styled.div`
-  margin-top: 1em;
-  padding-left: 0.5em;
-
-  &:hover {
-    a {
-      text-decoration: underline;
-    }
-  }
-`;

@@ -99,13 +99,6 @@ export const Aside: React.FC = () => {
               </Item>
             </List>
           </Navigation>
-
-          <Backline>
-            <Link href="#Install">
-              <RiInstallLine size="1.2em" />
-              Install App
-            </Link>
-          </Backline>
         </Wrap>
       </Container>
     </>
